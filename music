@@ -1,4 +1,7 @@
 [
-  {"name": "Big Baby Tape - 5 Nights Crazy", "url": "https://raw.githubusercontent.com/bigsmoukbruh/bsb-music/main/music-files/Big_Baby_Tape_kizaru_-_5_Nights_Crazy_73212026.mp3"},
-  {"name": "Название песни 2", "url": "https://example.com/song2.mp3"}
+  {
+    "name": "5 Nights Crazy",
+    "url": "https://raw.githubusercontent.com/bigsmoukbruh/bsb-music/main/music-files/Big_Baby_Tape_kizaru_-_5_Nights_Crazy_73212026.mp3",
+    "author": "Big Baby Tape, Kizaru"
+  }
 ]
