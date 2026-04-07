@@ -1,42 +1,42 @@
 [
   {
     "name": "LABIRINT",
-    "url": "https://raw.githubusercontent.com/bigsmoukbruh/bsb-music/main/music-files/FACE_-_LABIRINT_66800217.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/bigsmoukbruh/bsb-music@main/music-files/FACE_-_LABIRINT_66800217.mp3",
     "author": "FACE"
   },
   {
     "name": "Розовое вино",
-    "url": "https://raw.githubusercontent.com/bigsmoukbruh/bsb-music/main/music-files/JEldzhejj_FEDUK_-_Rozovoe_vino_81036835.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/bigsmoukbruh/bsb-music@main/music-files/JEldzhejj_FEDUK_-_Rozovoe_vino_81036835.mp3",
     "author": "Элджей, Feduk"
   },
   {
     "name": "Haunted House",
-    "url": "https://raw.githubusercontent.com/bigsmoukbruh/bsb-music/blob/main/music-files/Aarne_Big_Baby_Tape_kizaru_-_Haunted_House_76894960.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/bigsmoukbruh/bsb-music@main/music-files/Aarne_Big_Baby_Tape_kizaru_-_Haunted_House_76894960.mp3",
     "author": "Aarne, Big Baby Tape, Kizaru"
   },
   {
     "name": "Slip Slide",
-    "url": "https://raw.githubusercontent.com/bigsmoukbruh/bsb-music/blob/main/music-files/Big_Baby_Tape_kizaru_-_Slip_Slide_73212030.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/bigsmoukbruh/bsb-music@main/music-files/Big_Baby_Tape_kizaru_-_Slip_Slide_73212030.mp3",
     "author": "Big Baby Tape, Kizaru"
   },
   {
     "name": "Turbo",
-    "url": "https:/raw.githubusercontent.com/bigsmoukbruh/bsb-music/blob/main/music-files/Big_Baby_Tape_-_Turbo_Majestic_78196434.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/bigsmoukbruh/bsb-music@main/music-files/Big_Baby_Tape_-_Turbo_Majestic_78196434.mp3",
     "author": "Big Baby Tape"
   },
   {
     "name": "Million",
-    "url": "https://raw.githubusercontent.com/bigsmoukbruh/bsb-music/blob/main/music-files/Big_Baby_Tape_kizaru_-_Million_73212025.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/bigsmoukbruh/bsb-music@main/music-files/Big_Baby_Tape_kizaru_-_Million_73212025.mp3",
     "author": "Big Baby Tape, Kizaru"
   },
   {
     "name": "Suzuki",
-    "url": "https://raw.githubusercontent.com/bigsmoukbruh/bsb-music/blob/main/music-files/jeldzhjejj_-_Suzuki_69632580.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/bigsmoukbruh/bsb-music@main/music-files/jeldzhjejj_-_Suzuki_69632580.mp3",
     "author": "Элджей"
   },
   {
     "name": "Cadillac",
-    "url": "https://raw.githubusercontent.com/bigsmoukbruh/bsb-music/blob/main/music-files/MORGENSHTERN_JEldzhejj_-_Cadillac_81036793.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/bigsmoukbruh/bsb-music@main/music-files/MORGENSHTERN_JEldzhejj_-_Cadillac_81036793.mp3",
     "author": "MORGENSHTERN, Элджей"
   }
 ]
