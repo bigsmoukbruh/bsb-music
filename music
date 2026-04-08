@@ -58,5 +58,10 @@
     "name": "Lose Yourself",
     "url": "https://raw.githubusercontent.com/bigsmoukbruh/bsb-music/main/music-files/Eminem%20-%20Lose%20Your%20self.mp3",
     "author": "Eminem"
+  },
+  {
+    "name": "Gypsy Woman",
+    "url": "https://github.com/bigsmoukbruh/bsb-music/raw/refs/heads/main/music-files/Crystal_Waters_-_Gypsy_Woman_48004617.mp3",
+    "author": "Crystal Waters"
   }
 ]
